@@ -16,8 +16,8 @@ The backend pipeline, predictive engine, and visual interface were built using t
 
 ## 4. Data Source
 The project utilizes the public **Open University Learning Analytics Dataset (OULAD)**, which contains demographic, assessment, and daily interaction data for massive open online courses. 
-* **Source:** [Insert Link to OULAD Dataset Here]
-* *Note: Due to the 10.6 million row volume, the raw `studentVle.csv` is not hosted in this repository. A `sample_predictions.csv` file is included in the `/data` folder to demonstrate the custom output schema.*
+* **Source:** (https://analyse.kmi.open.ac.uk/open-dataset)
+* *Note: A `sample_predictions.csv` file is included in the `/data` folder to demonstrate the custom output schema.*
 
 ## 5. Features
 
