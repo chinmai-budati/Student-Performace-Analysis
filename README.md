@@ -40,7 +40,7 @@ University dropouts represent a massive loss in both revenue and human potential
 
 ## 7. Dashboard Demo
 
-**[Click Here to Interact with the Live Power BI Dashboard]([(https://app.powerbi.com/view?r=eyJrIjoiODZhOTk5Y2MtZDk5NC00NzY1LWJiYjgtMjc0ZGMwZGI0ZjM3IiwidCI6IjhlMjQ0OTAwLWJiZDQtNGNlMC1iNzlhLTQ4ZTMwYWRjMDFkNyJ9)])**
+**[Click Here to Interact with the Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODZhOTk5Y2MtZDk5NC00NzY1LWJiYjgtMjc0ZGMwZGI0ZjM3IiwidCI6IjhlMjQ0OTAwLWJiZDQtNGNlMC1iNzlhLTQ4ZTMwYWRjMDFkNyJ9)**
 
 *(If the live link is unavailable, view the automated system demonstration below)*
 
